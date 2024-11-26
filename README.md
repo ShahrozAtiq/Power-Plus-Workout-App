@@ -11,8 +11,8 @@ https://github.com/user-attachments/assets/ae98466e-4557-418f-a074-330778af90d2
 	ScreenShots
 </h1>
 <p align="center">
-	<img src="https://github.com/ShahrozAtiq/Social-Media-App/blob/main/1.jpg">
-	<img src="https://github.com/ShahrozAtiq/Social-Media-App/blob/main/2.jpg">
+	<img src="https://github.com/ShahrozAtiq/Power-Plus-Workout-App/blob/8938bef374e4c2331f4eded2449bcaa90ef1da45/assets/1%20copy.jpg">
+	<img src="https://github.com/ShahrozAtiq/Power-Plus-Workout-App/blob/8938bef374e4c2331f4eded2449bcaa90ef1da45/assets/2%20copy.jpg">
 </p>
 
 
